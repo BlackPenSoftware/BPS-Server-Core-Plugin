@@ -1,0 +1,9 @@
+name: BPC Server Core
+version: 1.0.0
+main: bpcservercore.main.BPCServerCore
+commands:
+  desc:
+    description: BPC Server Core Plugin
+    usage: /desc
+    permision:
+  
